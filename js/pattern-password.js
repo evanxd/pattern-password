@@ -96,12 +96,12 @@ var PatternPassword = function() {
       
       if(patternRender.getSelectedPoint().length !== 0) {
         if(checkPassword(patternRender.getSelectedPoint())) {
-        	  document.getElementById('checkResult').innerHTML = 'Let\'s go!';
-          audio.src = "audio/mario02.wav";
+        	  document.getElementById('checkResult').innerHTML = 'Hee-hee! I got it!';
+          audio.src = "audio/mario08.wav";
           audio.play();
         } else {
-      	  document.getElementById('checkResult').innerHTML = 'Woah oah...';
-          audio.src = "audio/mario06.wav";
+      	  document.getElementById('checkResult').innerHTML = 'Game over!';
+          audio.src = "audio/smb_mariodie.wav";
           audio.play();
         }      	
       }
