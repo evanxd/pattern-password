@@ -1,7 +1,7 @@
 {
   "name": "Pattern Password",
   "description": "Pattern Password",
-  "launch_path": "/index.html",
+  "launch_path": "/pattern-password/index.html",
   "icons": {
     "128": "/style/icon/mario.png"
   },
