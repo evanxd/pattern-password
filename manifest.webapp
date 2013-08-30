@@ -1,7 +1,10 @@
 {
   "name": "Pattern Password",
   "description": "Pattern Password",
-  "launch_path": "/index.html"
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/style/icon/mario.png"
+  },
   "developer": {
     "name": "Evan Xd",
     "url": "http://github.com/evanxd"
