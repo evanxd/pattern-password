@@ -3,7 +3,7 @@
   "description": "Pattern Password",
   "launch_path": "/pattern-password/index.html",
   "icons": {
-    "128": "/style/icon/mario.png"
+    "128": "/pattern-password/style/icon/mario.png"
   },
   "developer": {
     "name": "Evan Xd",
